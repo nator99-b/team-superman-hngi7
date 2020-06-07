@@ -1,6 +1,6 @@
 class HNGinterns{
     constructor (name, id, language, email){
-        this.name = name;
+        this.name = name; nator oruama
         this.id = id;
         this.language = language;
         this.email = email;
